@@ -25,4 +25,4 @@ async def on_command_error(ctx, error):
 	else:
 		print(error)
 
-client.run('NzAwMDUwMzY1MTY0NTUyMjMy.XpdTGA.cY7Sircs1PUejMpBi5kgNtP0KYU')
+client.run()
